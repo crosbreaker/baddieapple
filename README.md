@@ -4,7 +4,7 @@ baddieapple allows code execution in developer mode recovery on kv5 and kv6 [v3 
 # Support
 If you need any kind of support, please join our [discord server](https://discord.gg/crosbreaker-1375357349425971231) for help
 ## Why is this useful?
-At the time of me writing this, this can be used for the following:  **Quicksilver (unenrollment up to R143)**, **[Recover to any version](#recovery-selector)**, **[br0ker (unenrollment up to R133)](#br0ker)**, **[daub](#daub)**, **[appleboot](https://github.com/applefritter-inc/appleboot)**, [unkeyroll](#unkeyroll) (only works if write protect is ALREADY disabled), [mrchromebox script](#mrchromebox-script) and [pencil sharpener](#pencil-sharpener) (not recommended).
+At the time of me writing this, this can be used for the following:  **[Quicksilver](#quicksilver) (unenrollment up to R143)**, **[Recover to any version](#recovery-selector)**, **[br0ker (unenrollment up to R133)](#br0ker)**, **[daub](#daub)**, **[appleboot](https://github.com/applefritter-inc/appleboot)**, [unkeyroll](#unkeyroll) (only works if write protect is ALREADY disabled), [mrchromebox script](#mrchromebox-script) and [pencil sharpener](#pencil-sharpener) (not recommended).
 
 >[!CAUTION]
 >This exploit is patchecd on R143 via [c/6839636](https://crrev.com/c/6839636)
