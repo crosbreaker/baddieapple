@@ -24,7 +24,7 @@ jobs:
       - name: Upload to existing GitHub Release
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: minios131
+          tag_name: minios
           files: miniOSextractor/minios-${{ matrix.board }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
