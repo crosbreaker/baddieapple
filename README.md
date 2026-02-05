@@ -91,4 +91,5 @@ Alternatively, you can use the [Unkeyroll](#Unkeyroll) section at the same point
 - [applefritter](https://github.com/applefritter-inc) - Finding the orginal [BadApple](https://github.com/applefritter-inc/BadApple), creating [appleboot](https://github.com/applefritter-inc/appleboot) (making this much more useful.)  Also finding this independently and not fedding it.
 - [BinBashBanana](https://github.com/BinBashBanana) - Helping us with the original POC
 - [codenerd87](https://github.com/codenerd87) - Finding this independently and not fedding it, miniOS extractor.
-- [crossjbly](https://github.com/crossjbly) - emtional support
+- [crossjbly](https://github.com/crossjbly) - emotional support
+- Fanqyxl - emotional support (fanqyxl mind disease)
