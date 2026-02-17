@@ -8,6 +8,8 @@ At the time of me writing this, this can be used for the following:  **[Quicksil
 
 >[!CAUTION]
 >This exploit is patchecd on R143 via [c/6839636](https://crrev.com/c/6839636)
+>
+This exploit only works on the following boards: `nissa, skyrim, guybrush, corsola, brya, rex, cherry, geralt, staryu`
 ## How to use
 
 You will need:
