@@ -61,7 +61,7 @@ NOTE:  Write protect must already be disabled for this to work.
 To unkeyroll while in BadApple or baddieapple, connect to a wifi network, and run this in the terminal
 
 ```bash
-curl -LO https://ba.crosbreaker.dev/ba/unkeyroll.sh && sh unkeyroll.sh
+curl -LO https://ba.crosbreaker.dev/unkeyroll.sh && sh unkeyroll.sh
 ```
 ### mrchromebox script
 Run the mrchromebox script in baddieapple:
