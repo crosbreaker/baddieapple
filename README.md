@@ -84,10 +84,6 @@ Alternatively, you can use the [Unkeyroll](#Unkeyroll) section at the same point
 
 [dl.crosbreaker.dev (fast)](https://dl.crosbreaker.dev/ChromeOS/modified-recovery/baddieapple/)
 
-[GitHub large releases (slower)](https://github.com/crosbreaker/baddieapple/releases/latest)
-
-~~[GitHub actions (slowest)](https://nightly.link/crosbreaker/baddieapple/actions/runs/21697410779)~~ down temporarily 
-
 ## Credits
 - [HarryTarryJarry](https://github.com/HarryTarryJarry) - Making this repo, and most scripts.  Also miniOS daub, miniOS Pencil Sharpener, miniOS br0ker, and the miniOS unkeyrolling script.
 - [fast218](https://github.com/fastcoder218) - Thinking of the orginal idea
