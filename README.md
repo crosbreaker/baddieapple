@@ -1,5 +1,4 @@
 # baddieapple
-![baddieapple](https://cdn.crosbreaker.dev/baddieapple.png)
 baddieapple allows code execution in developer mode recovery on kv5 and kv6 [v3 disk layout](#supported-devices) Chromebooks, similar to sh1mmer but for keyrolled devices.  This bypasses the [BadApple patch](https://crrev.com/c/6073625).
 # Support
 If you need any kind of support, please join our [discord server](https://discord.gg/crosbreaker-1375357349425971231) for help
