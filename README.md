@@ -42,18 +42,18 @@ vpd -i RW_VPD -s re_enrollment_key="$(openssl rand -hex 32)"
 ### Recovery Selector
 To recover to ANY version via miniOS (with wifi) connect to a wifi network, and run this in the terminal
 ```bash
-curl -LO https://ba.crosbreaker.dev/recovery_selector.sh && sh recovery_selector.sh {versiontorecoverto}
+curl -LO https://ba.crosbreaker.com/recovery_selector.sh && sh recovery_selector.sh {versiontorecoverto}
 ```
 ### daub
 To use daub while in BadApple or baddieapple, connect to a wifi network, and run this in the terminal
 ```bash
-curl -LO https://ba.crosbreaker.dev/daub.sh && sh daub.sh
+curl -LO https://ba.crosbreaker.com/daub.sh && sh daub.sh
 ```
 
 ### br0ker
 To unenroll your device (remove fwmp) while in baddieapple, first make sure you're on kernver 5, connect to a wifi network, and run this in the terminal.  This will not work on kernver 6.
 ```bash
-curl -LO https://ba.crosbreaker.dev/br0ker.sh && sh br0ker.sh
+curl -LO https://ba.crosbreaker.com/br0ker.sh && sh br0ker.sh
 ```
 ### Unkeyroll
 NOTE:  Write protect must already be disabled for this to work.
@@ -61,12 +61,12 @@ NOTE:  Write protect must already be disabled for this to work.
 To unkeyroll while in BadApple or baddieapple, connect to a wifi network, and run this in the terminal
 
 ```bash
-curl -LO https://ba.crosbreaker.dev/unkeyroll.sh && sh unkeyroll.sh
+curl -LO https://ba.crosbreaker.com/unkeyroll.sh && sh unkeyroll.sh
 ```
 ### mrchromebox script
 Run the mrchromebox script in baddieapple:
 ```bash
-curl -LO https://ba.crosbreaker.dev/mrchromebox.sh && sh mrchromebox.sh
+curl -LO https://ba.crosbreaker.com/mrchromebox.sh && sh mrchromebox.sh
 ```
 ### Pencil Sharpener
 This section has modified steps for [Pencil Shapener](https://github.com/truekas/PencilSharpener) in a miniOS shell (BadApple)
