@@ -82,7 +82,7 @@ flashrom --wp-enable
 Alternatively, you can use the [Unkeyroll](#Unkeyroll) section at the same point, then booting a shim to do the rest of the work.
 ## Prebuilts?
 
-[dl.crosbreaker.dev (fast)](https://dl.crosbreaker.dev/ChromeOS/modified-recovery/baddieapple/)
+coming soon
 
 ## Credits
 - [HarryTarryJarry](https://github.com/HarryTarryJarry) - Making this repo, and most scripts.  Also miniOS daub, miniOS Pencil Sharpener, miniOS br0ker, and the miniOS unkeyrolling script.
