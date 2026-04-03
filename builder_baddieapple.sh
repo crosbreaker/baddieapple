@@ -1,5 +1,5 @@
 #!/bin/bash
-# Written by HarryTarryJarry
+# Written by HarryJarry1
 board=$1
 recover=$2
 zipped_link="https://github.com/crosbreaker/baddieapple/releases/download/minios/minios-$board.zip"
