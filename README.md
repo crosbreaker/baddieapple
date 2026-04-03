@@ -20,7 +20,7 @@ Instructions to create a image:
 ```
 git clone https://github.com/crosbreaker/baddieapple.git
 cd baddieapple
-sudo ./builder_baddieapple.sh <board> <OPTIONAL:version (default is 139 if unset)>
+sudo ./builder_baddieapple.sh <board> <OPTIONAL:version (default is 142 if unset)>
 ```
 NOTE:  If this version doesn't work for you, check out [no_minios_prebuilt.sh](./no_minios_prebuilt.sh). You can also use this if you do not trust the extracted miniOS versions hosted on this repository.  However, there can't be any modifications made due to miniOS being signed so it doesn't make much of a difference ethier way.
 
