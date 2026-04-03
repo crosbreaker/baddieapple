@@ -83,6 +83,7 @@ Alternatively, you can use the [Unkeyroll](#Unkeyroll) section at the same point
 
 [nightly.link](https://nightly.link/crosbreaker/baddieapple/actions/runs/23954717609)
 
+[large releases (fastest)](https://github.com/crosbreaker/baddieapple/releases/latest)
 ## Credits
 - [HarryTarryJarry](https://github.com/HarryTarryJarry) - Making this repo, and most scripts.  Also miniOS daub, miniOS Pencil Sharpener, miniOS br0ker, and the miniOS unkeyrolling script.
 - [fast218](https://github.com/fastcoder218) - Thinking of the orginal idea
